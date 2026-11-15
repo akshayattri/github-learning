@@ -13,3 +13,11 @@ I am a UI/UX Product Designer learning Git and GitHub from scratch.
 ## My Practice Project
 GoodPaw - a social app for dog owners.
   
+
+## GoodPaw Future Ideas
+
+- Help dog owners discover nearby pets
+- Make planning playdates easier
+- Let dog parents share moments
+- Improve the mobile app experience
+  
